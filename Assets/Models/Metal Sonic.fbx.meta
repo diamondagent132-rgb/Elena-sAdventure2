@@ -3,7 +3,22 @@ guid: 789f2f84bde98ca4d80b1efb46aaae5d
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_eye_M
+    second: {fileID: 2100000, guid: 517fd26a6f523d3418ed45d38053aa95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Sonic_M
+    second: {fileID: 2100000, guid: 55e66acb7e4e0254aa177672a994dc5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_eye_M
+    second: {fileID: 2100000, guid: 8642e8c527741f34c8d3b67870f8f531, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
